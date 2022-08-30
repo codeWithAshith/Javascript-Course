@@ -67,7 +67,7 @@ const logicalOr = (val) => {
 console.log(logicalOr(10));
 
 const switchCondition = (val) => {
-  switch (expr) {
+  switch (val) {
     case "Oranges":
       console.log("Oranges are $0.59 a pound.");
       break;
@@ -77,7 +77,7 @@ const switchCondition = (val) => {
       // expected output: "Mangoes and papayas are $2.79 a pound."
       break;
     default:
-      console.log(`Sorry, we are out of ${expr}.`);
+      console.log("Default case");
   }
 };
 

@@ -25,5 +25,5 @@ const greetWithNameArrowFunction = (name) => {
   console.log("Hello " + name);
 };
 
-greetWithNameArrowFunction();
+greetWithNameArrowFunction("John");
 
