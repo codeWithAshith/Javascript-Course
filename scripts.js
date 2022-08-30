@@ -1,4 +1,3 @@
-
 // default value is undefined
 // let name;
 // console.log(name);
@@ -8,8 +7,7 @@
 // Cannot start with a number (1name)
 // Cannot contain space or hypen(-)
 // Are case sensitive
-// 
+//
 
-let name = 'CodeWithAshith'
+let name = "CodeWithAshith";
 console.log(name);
-
