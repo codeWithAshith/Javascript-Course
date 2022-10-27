@@ -11,7 +11,7 @@ let person = {
   phones: ["iphone 14", "pixel 4a"],
 };
 
-console.log(person);
+console.log(person.address.city);
 
 let plants = [
   {

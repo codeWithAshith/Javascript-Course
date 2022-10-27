@@ -12,7 +12,8 @@ const arr = [5, 1, 3, 6];
 
 // const output = arr.map(double);
 
-// // const output = arr.map((a) => a * 2);
+const output = arr.map((a) => a * 2);
+
 console.log(output);
 
 // // Filter
@@ -83,5 +84,3 @@ console.log(output);
 // const output = users.filter((name) => name.age === 40);
 
 // console.log(output);
-
-

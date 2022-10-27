@@ -2,7 +2,7 @@ let name = "code with Ashith";
 let age = 40;
 
 let person = {
-  name: "Mosh",
+  name: "code with Ashith",
   age: "40",
 };
 

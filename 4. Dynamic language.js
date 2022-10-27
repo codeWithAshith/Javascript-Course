@@ -3,12 +3,12 @@
 // console.log(typeof name);
 
 // name = 10;
-// console.log(name);
+// console.log(typeof name);
 
 // no floating point number
 // undefined is a type
 // null is an object
 
-let color = null;
-console.log(color);
+// let color = null;
+// console.log(color);
  
